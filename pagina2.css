@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+    color: black;
+}
+
+i.galeria {
+  text-align: center;
+}
+
+.galeria img {
+  width: 200px;       
+  margin: 10px;       
+/
+}
+a {
+    text-decoration: darkslategrey;
+    color: lightslategray;
+}
+
+a:hover {
+    color: darkslategrey;
+}
